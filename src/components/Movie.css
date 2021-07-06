@@ -51,3 +51,14 @@
   margin-right: 10px;
   font-size: 14px;
 }
+
+@media (max-width: 600px) {
+  .movies .movie {
+    min-width: 300px;
+    flex-direction: column;
+  }
+  .movie img {
+    width: 50%;
+    min-width: 200px;
+  }
+}

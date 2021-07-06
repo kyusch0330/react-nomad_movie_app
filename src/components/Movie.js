@@ -14,7 +14,8 @@ function Movie({ id, year, title, summary, poster, genres }) {
           year, //year: year,
           title, //title: title,
           poster, //poster: poster
-          genres // genres: genres
+          genres, // genres: genres
+          summary // summary: summary
         }
       }}
     >

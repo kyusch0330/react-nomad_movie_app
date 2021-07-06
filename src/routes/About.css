@@ -3,9 +3,14 @@
   height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   font-weight: 600;
+  margin-top: 2rem;
+}
+
+.aboutContainer h2 {
+  align-self: flex-start;
 }
 
 .aboutContainer img {

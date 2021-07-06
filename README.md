@@ -2,5 +2,5 @@
 
 React JS Fundamentals Course  
 
-# 주소 
+# Address 
 https://kyusch0330.github.io/react-nomad_movie_app

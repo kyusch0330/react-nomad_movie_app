@@ -6,6 +6,7 @@ function About(props) {
   console.log(props);
   return (
     <section className="aboutContainer">
+      <h2>About<hr/></h2>
       <img src={aboutImage} title="about" alt="about"/>
       <p>Find movies that you're interested in by referring to the descriptions in the movie list!</p>
     </section>

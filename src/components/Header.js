@@ -1,13 +1,14 @@
 import React from 'react'
 import Navigation from './Navigation';
 import './Header.css';
+import { Link } from 'react-router-dom';
 
 function Header() {
   return (
     <div className="header">
-      <a href="/" className="logo">
+      <Link to ="/" className="logo">
         <span>Movie App</span>
-      </a>
+      </Link>
       <Navigation/>
     </div>
   )

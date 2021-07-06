@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-nomad_movie_app/static/css/main.9a5a822e.chunk.css",
-    "main.js": "/react-nomad_movie_app/static/js/main.1ca5877a.chunk.js",
-    "main.js.map": "/react-nomad_movie_app/static/js/main.1ca5877a.chunk.js.map",
+    "main.css": "/react-nomad_movie_app/static/css/main.12810122.chunk.css",
+    "main.js": "/react-nomad_movie_app/static/js/main.2322d828.chunk.js",
+    "main.js.map": "/react-nomad_movie_app/static/js/main.2322d828.chunk.js.map",
     "runtime-main.js": "/react-nomad_movie_app/static/js/runtime-main.60fa7b25.js",
     "runtime-main.js.map": "/react-nomad_movie_app/static/js/runtime-main.60fa7b25.js.map",
-    "static/js/2.01a616c3.chunk.js": "/react-nomad_movie_app/static/js/2.01a616c3.chunk.js",
-    "static/js/2.01a616c3.chunk.js.map": "/react-nomad_movie_app/static/js/2.01a616c3.chunk.js.map",
+    "static/js/2.b2e2539d.chunk.js": "/react-nomad_movie_app/static/js/2.b2e2539d.chunk.js",
+    "static/js/2.b2e2539d.chunk.js.map": "/react-nomad_movie_app/static/js/2.b2e2539d.chunk.js.map",
     "index.html": "/react-nomad_movie_app/index.html",
-    "static/css/main.9a5a822e.chunk.css.map": "/react-nomad_movie_app/static/css/main.9a5a822e.chunk.css.map",
-    "static/js/2.01a616c3.chunk.js.LICENSE.txt": "/react-nomad_movie_app/static/js/2.01a616c3.chunk.js.LICENSE.txt",
+    "static/css/main.12810122.chunk.css.map": "/react-nomad_movie_app/static/css/main.12810122.chunk.css.map",
+    "static/js/2.b2e2539d.chunk.js.LICENSE.txt": "/react-nomad_movie_app/static/js/2.b2e2539d.chunk.js.LICENSE.txt",
     "static/media/about_image.fd3629ed.PNG": "/react-nomad_movie_app/static/media/about_image.fd3629ed.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.60fa7b25.js",
-    "static/js/2.01a616c3.chunk.js",
-    "static/css/main.9a5a822e.chunk.css",
-    "static/js/main.1ca5877a.chunk.js"
+    "static/js/2.b2e2539d.chunk.js",
+    "static/css/main.12810122.chunk.css",
+    "static/js/main.2322d828.chunk.js"
   ]
 }
